@@ -1,24 +1,23 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 }
 
 html,
-body
-{
+body {
     overflow: hidden;
+    background-color: black;
+    color: white;
 }
 
-.webgl
-{
+.webgl {
     position: fixed;
     top: 0;
     left: 0;
     outline: none;
 }
 
-.heading{
+.heading {
     font-family: 'Space Mono', monospace;
     z-index: 3;
     position: absolute;
@@ -27,12 +26,12 @@ body
     color: white;
 }
 
-.heading h1{
+.heading h1 {
     font-size: 3rem;
     margin: 10px;
 }
 
-.heading h4{
+.heading h4 {
     font-size: 1rem;
     font-weight: 400;
     margin: 10px;
