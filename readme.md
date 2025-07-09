@@ -16,3 +16,5 @@
    `npm run dev`
 
 You're default browser will pop up with the simulation running on a new tab.
+
+   // live demo at : https://ad4mjulie.github.io/galaxy-ar0718/
